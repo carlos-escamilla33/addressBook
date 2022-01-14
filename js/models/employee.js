@@ -6,4 +6,4 @@ EmployeeManager.Models.Employee = Backbone.Model.extend({
         email: null,
         avatar: null
     }
-})
+});
